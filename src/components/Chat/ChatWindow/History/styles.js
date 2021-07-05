@@ -4,6 +4,8 @@ export const Scroller = styled.div`
   display: flex;
   flex-flow: column-reverse wrap;
   position: absolute;
+  left: 15px;
+  right: 15px;
 `;
 
 export const Wrapper = styled.div`
